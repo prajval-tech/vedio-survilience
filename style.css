@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    background-color: orange;
+    font-size: 30px;
+    font-family: mv boli;
+    color: white;
+    text-align: center
+
+}
+
+.start{
+    font-size: 20px;
+    font-family: mv boli;
+    color: white;
+    background-color: lime;
+    margin-top: 30px;
+}
+ 
+.numobjects{
+    background-color: rgb(140, 184, 20);
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: mv boli;
+    margin-top: 20px;
+}
+
+.status{
+    background-color: rgb(224, 107, 107);
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: mv boli;
+    margin-top: 20px;
+}
+
+#footer{
+    position: fixed;
+    font-size: 15px;
+    font-family: mv boli;
+    color: white;
+    background-color: grey;
+    bottom: 0;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid rgb(221, 172, 82);
+    box-shadow: 8px 8px 15px rgb(212, 169, 89);
+    margin-top: 115px;
+}
